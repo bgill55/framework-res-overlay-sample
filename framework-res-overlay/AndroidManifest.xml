@@ -5,7 +5,7 @@
 <!--
 Targeting the right packageName of the 'target.apk' here!  
 We can find the real packageName in the AndroidManifest.xml of original target.apk!
-So the matching resources id can be set in ralations.
+So the matching resources id can be set in accordance.
 -->
 <overlay android:targetPackage="android" android:priority="1"/>
   
